@@ -1,0 +1,40 @@
+body {
+	
+}
+
+.titolo {
+
+	text-align: center;
+}
+
+
+
+.menu-container input {
+	margin: auto;
+}
+
+.info {
+	text-align: center;
+}
+
+.game {
+	margin-left: auto;
+	margin-right: auto;
+	height: 600px;
+	width: 600px;
+	border: 1px solid black;
+}
+
+.talpa-container {
+	/* border: 1px solid red; */
+	height: 80px;
+	width: 80px;
+	position: relative;
+}
+
+img {
+	width: 80px;
+	height: 80px;
+	pointer-events: none;
+	user-select: none;
+}
